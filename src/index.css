@@ -1,0 +1,30 @@
+@import "tailwindcss";
+#tasklist::-webkit-scrollbar{
+display:none;
+}
+*{
+    color:#fff;
+}
+body{
+    background-color:#111;
+}
+#tasklist::-webkit-scrollbar{
+    background-color: transparent;
+    height: 5px;
+}
+#tasklist::-webkit-scrollbar-thumb{
+  background-color: rgb(143, 143, 143);
+  border-radius: 50px;
+}
+#abc2{
+    color:blue;
+}
+#abc3{
+    color:yellow;
+}
+#abc4{
+    color:white
+}
+#abc5{
+    color:rgb(120, 5, 5);
+}
