@@ -30,3 +30,16 @@ git clone https://github.com/astrophileAqsa123/admin-dashboard.git
 cd admin-dashboard
 npm install
 npm start
+
+---
+## For  admin 
+email: admin@example.com
+password: 123
+---
+
+## For  employees
+email:  e@e.com,
+password: 123
+
+email: employee2@example.com,
+password: 123,
